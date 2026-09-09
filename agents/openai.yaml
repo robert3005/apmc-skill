@@ -1,0 +1,3 @@
+interface:
+  display_name: "Apple Silicon Performance Counters"
+  short_description: "Measure Apple Silicon counters with apmc"
