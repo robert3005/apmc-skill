@@ -24,14 +24,6 @@ Install with the [skills.sh](https://www.skills.sh/) CLI:
 npx skills add robert3005/apmc-skill
 ```
 
-The command asks which agent and scope to install into. To install without prompts:
-
-```sh
-npx skills add robert3005/apmc-skill -a claude-code -y
-```
-
-Re-run the command to update an existing installation.
-
 Example requests:
 
 - “Compare cache misses and branch mispredictions for these two release binaries.”
